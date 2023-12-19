@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A707F</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>ODM</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A707FODM</CSCName>
+        <CSCVersion>3CUJ2</CSCVersion>
+        <NbCustomer>4</NbCustomer>
+        <CustomerData src="/Customer/INS/customer.xml" />
+        <CustomerData src="/Customer/NPB/customer.xml" />
+        <CustomerData src="/Customer/SLI/customer.xml" />
+        <CustomerData src="/Customer/CPW/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>CPW</CustomerCode>
+            <Version>SAOMC_SM-A505F_ODM_CPW_PP_0001</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>INS</CustomerCode>
+            <Version>SAOMC_SM-A707F_ODM_INS_RR_0020</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="com.samsung.ecomm.global.in" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>NPB</CustomerCode>
+            <Version>SAOMC_SM-A707F_ODM_NPB_RR_0005</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>SLI</CustomerCode>
+            <Version>SAOMC_SM-A707F_ODM_SLI_RR_0007</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>

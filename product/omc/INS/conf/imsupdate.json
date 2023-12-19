@@ -1,0 +1,29 @@
+{
+  "update_version": 2,
+  "note": "ImsSwitch update for Airtel RCS Setup and added enabled Vowifi for Vodafone and IDEA",
+  "imsswitch_update":
+  {
+    "defaultswitch": {
+    },
+    "imsswitch": [
+      {
+        "mnoname": "AIRTEL_IN",
+        "enableIms": true,
+        "enableServiceVolte": true,
+        "enableServiceVowifi": true,
+        "enableServiceVilte": true,
+        "enableServiceSmsip": true,
+        "enableServiceRcs": true,
+        "enableServiceRcschat": true
+      },
+      {
+        "mnoname": "Vodafone_IN",
+        "enableServiceVowifi": true
+      },
+      {
+        "mnoname": "IDEA_IN",
+        "enableServiceVowifi": true
+      }
+    ]
+  }
+}

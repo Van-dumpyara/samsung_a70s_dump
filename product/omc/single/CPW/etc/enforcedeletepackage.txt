@@ -1,0 +1,11 @@
+10
+99Taxis.apk
+AmazonVideo_SWA.apk
+Amazon_Shopping.apk
+Booking_deletable.apk
+Dailyhunt.apk
+ElTiempo.apk
+LinkedIn_SamsungStub_Deletable.apk
+SamsungDotCom.apk
+SamsungPayStub.apk
+Snapchat.apk
