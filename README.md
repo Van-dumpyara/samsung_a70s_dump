@@ -1,0 +1,14 @@
+# a70sdd-user 11 RP1A.200720.012 A707FDDS3CWE2 release-keys
+- manufacturer: samsung
+- platform: sm6150
+- codename: a70s
+- flavor: a70sdd-user
+- release: 11
+- id: RP1A.200720.012
+- incremental: A707FDDS3CWE2
+- tags: release-keys
+- fingerprint: samsung/a70sdd/a70s:11/RP1A.200720.012/A707FDDS3CWE2:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a70sdd-user-11-RP1A.200720.012-A707FDDS3CWE2-release-keys
+- repo: samsung_a70s_dump
